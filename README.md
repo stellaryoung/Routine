@@ -1,2 +1,3 @@
 # Routine
-record my learning process
+record my learning process for Java.
+
